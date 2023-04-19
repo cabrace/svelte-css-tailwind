@@ -4,10 +4,12 @@
   import curry from '$lib/assets/curry.jpg';
   import SvgIcon from '$lib/components/SvgIcon.svelte'
   import {burger,clock, home, contact, about} from '$lib/components/AppIcons'
+  /* import { hello } from "./index.js" */
   import { onMount } from 'svelte';
 
   onMount(async () => {
       //Do stuff here
+     /* console.log(hello) */
   });
 
 </script>

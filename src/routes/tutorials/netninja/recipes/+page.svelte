@@ -1,3 +1,7 @@
+<!-- 
+  @author: cabrace 
+  @reference: https://www.youtube.com/watch?v=bxmDnn7lrnk&list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw
+-->
 <script>
   import stew from '$lib/assets/stew.jpg';
   import noodles from '$lib/assets/noodles.jpg';
