@@ -1,38 +1,16 @@
-# create-svelte
+# Learning CSS and Tailwind
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+## Reasons
 
-## Creating a project
+The reason and purpose behind this repo is to be a collaborative effort to LEARN CSS,tailwind,javascript,svelte,
+separating 'what we think we know' from 'what we actually know' and add to that by DOING.
 
-If you're seeing this, you've probably already done this step. Congrats!
+## Overview / Outline
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
+Currently the `/src/routes/*` folder has two main folders `cb` and `mr` which represent two contributors for the project.
+Each contributor will break their folders and structures up accordingly as they need, and all projects are to be listed
+on the front index page. i.e site root.
 
-# create a new project in my-app
-npm create svelte@latest my-app
-```
 
-## Developing
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
 
-```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
